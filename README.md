@@ -4,7 +4,7 @@ An end-to-end data analysis project exploring pizza sales performance using **MS
 
 ---
 
-## Dashboard Overview
+## Dashboard Preview
 
 ![Dashboard Preview](dashboard.png)
 
