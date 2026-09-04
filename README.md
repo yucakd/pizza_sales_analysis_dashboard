@@ -4,6 +4,11 @@ An end-to-end data analysis project exploring pizza sales performance using **MS
 
 ---
 
+## Dashboard Overview
+
+![Dashboard Preview](dashboard.png)
+
+---
 
 ##  Project Overview
 This project analyzes sales data from a pizza restaurant chain to uncover key performance metrics, sales trends, category distribution, and top/bottom seller items. The goal is to provide actionable business insights to optimize products, marketing strategies, and planning.
